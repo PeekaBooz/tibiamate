@@ -1,0 +1,7 @@
+
+If you find any bugs, please report them in our app-bugs channel on our discord server (https://discord.gg/W6u6n3t).
+
+1) April 4, 2019:
+	TibiaMate released (Press F10 for Settings)
+	1-button Rashid (F9)
+	Spell Cooldowns (1000ms = 1second)
